@@ -1,0 +1,16 @@
+./create_csv_changes.py  -i top_CoffeeScript -d coffescript.csv
+./create_csv_changes.py  -i top_c -d c.csv
+./create_csv_changes.py  -i top_cpp -d cpp.csv 
+./create_csv_changes.py  -i top_csharp -d csharp.csv 
+./create_csv_changes.py  -i top_css -d css.csv 
+./create_csv_changes.py  -i top_go -d go.csv 
+./create_csv_changes.py  -i top_java -d java.csv 
+./create_csv_changes.py  -i top_js -d js.csv 
+./create_csv_changes.py  -i top_obj_c -d objc.csv 
+./create_csv_changes.py  -i top_perl -d perl.csv 
+./create_csv_changes.py  -i top_php -d php.csv 
+./create_csv_changes.py  -i top_python -d python.csv 
+./create_csv_changes.py  -i top_ruby -d ruby.csv 
+./create_csv_changes.py  -i top_scala -d scala.csv 
+./create_csv_changes.py  -i top_shell -d shell.csv 
+./create_csv_changes.py  -i top_viml -d viml.csv 
