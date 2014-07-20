@@ -1,0 +1,3 @@
+- dump gihub log in text format with its diff.
+- parse the log and dump the necessary output in the database
+
